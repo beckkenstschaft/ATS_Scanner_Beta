@@ -1,0 +1,19 @@
+{
+  "name": "ats_scanner_beta",
+  "version": "1.0.0",
+  "description": "This is designed for testing and experimental purpose of the ATS Scanner web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docx-parser": "^0.2.1",
+    "express": "^4.19.2",
+    "grammarbot": "^1.0.3",
+    "multer": "^1.4.5-lts.1",
+    "pdf-parse": "^1.1.1"
+  }
+}
